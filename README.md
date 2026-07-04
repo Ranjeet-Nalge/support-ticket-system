@@ -102,3 +102,10 @@ DB_HOST=
 DB_PORT=
 
 ```
+
+```
+author,
+Ranjeet T. Nalge
+Contact: +917744888557
+Email: ranjeet7nalge@gmail.com
+```
